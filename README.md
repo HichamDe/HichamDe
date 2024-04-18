@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Tourbnament Manager](https://github.com/rngmahdi/Project_tournement)
+- 👯 I’m collaborating on [Tourbnament Manager](https://github.com/rngmahdi/Project_tournement)
 
 - 🤝 I’m looking for help with [react-native-document-scanner-plugin](https://github.com/websitebeaver/react-native-document-scanner-plugin)
 
