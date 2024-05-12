@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HICHAM IAMIRI</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on [Gestion d'formation](https://github.com/HichamDe/gestion-formation)
+- 🔭 I’m currently working on my PFA.
 
 - 🌱 I’m currently learning **React Native**
 
