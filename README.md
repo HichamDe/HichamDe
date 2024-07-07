@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm HICHAM IAMIRI</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on my PFA.
+- 🔭 I’m currently working on a Project as a Front End Expert.
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m collaborating on [Tournament Manager](https://github.com/rngmahdi/Project_tournement)
+- 👯 I’m collaborating on Province Chtouka Ait Baha Website
 
-- 🤝 I’m looking for help with [react-native-document-scanner-plugin](https://github.com/websitebeaver/react-native-document-scanner-plugin)
-
-- 💬 Ask me about **React and Vue Js**
+- 💬 Ask me about **Next Js and Go**
 
 - 📫 How to reach me **hicham.iamiri200@gmail.com**
 
